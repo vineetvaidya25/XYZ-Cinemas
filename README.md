@@ -63,6 +63,8 @@ If there is payment error
 Several things are prohibited from taking inside the cinema :-
 - Sharp objects
 - Food items carried from home
+## Pet Friendly Corner
+We do have pet friendly cafe in our cinema where you can enjoy with your pets
 ## Contact
 For any other queries contact us via email:
 support@myxyzcinema.com
