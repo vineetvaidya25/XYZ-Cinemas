@@ -59,6 +59,10 @@ If there is payment error
 - Check your payment methods
 
 - Contact our system if there is an error while paying for tickets.
+## Things Prohibited
+Several things are prohibited from taking inside the cinema :-
+- Sharp objects
+- Food items carried from home
 ## Contact
 For any other queries contact us via email:
 support@myxyzcinema.com
